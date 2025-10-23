@@ -138,12 +138,10 @@ void IRPAIR()
 ## OUTPUT
 OBJECT NOT DEDUCTED:
 
-<img width="690" height="918" alt="image" src="https://github.com/user-attachments/assets/e8c4fad3-c72f-48ef-92ab-05cd8c3552f8" />
-
+![WhatsApp Image 2025-04-09 at 10 35 28_822c403d](https://github.com/user-attachments/assets/5d1b918f-969c-4bac-a2d2-a226f6c20aa8)
 OBJECT DEDUCTED:
 
-<img width="695" height="863" alt="image" src="https://github.com/user-attachments/assets/14822717-21b5-40fd-87c8-84e0dc60a1bc" />
-
+![WhatsApp Image 2025-04-09 at 10 35 34_9c868168](https://github.com/user-attachments/assets/af403c96-bc49-4393-8d07-ba31b5fdbad4)
 ## Result
 
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
